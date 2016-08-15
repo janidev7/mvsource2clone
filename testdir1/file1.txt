@@ -1,3 +1,4 @@
 mvsource2:testdir1/file1.txt
-v2
+v3
 story2 changes 
+story1 changes
