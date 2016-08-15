@@ -1,2 +1,2 @@
 mvsource2:testdir3/file3.txt
-v1
+v2
