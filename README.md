@@ -2,3 +2,4 @@
 default: develop
 year: 2016
 location: London
+month: Aug
